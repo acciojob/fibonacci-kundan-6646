@@ -10,6 +10,6 @@ function fibonacci(num) {
 
 	return b;
 }
-alert(fibonacci(4));
+// alert(fibonacci(4));
 
 module.exports = fibonacci;
